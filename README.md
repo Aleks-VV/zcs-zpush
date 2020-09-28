@@ -13,7 +13,7 @@ apt install git php7.2-cli php7.2-cgi php7.2-soap php7.2-mbstring php7.2-curl ph
 Clone repo
 
 ```bash
-git clone https://github.com/LinuxCuba/zcs-zpush.git
+git clone https://github.com/Aleks-VV/zcs-zpush.git
 cd zcs-zpush
 ```
 
